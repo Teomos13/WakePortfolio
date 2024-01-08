@@ -1,0 +1,15 @@
+img {
+  border-radius: 50%;
+}
+
+section {
+  background: linear-gradient(#87bb42, #9198e5);
+}
+
+.person {
+  width: 200px;
+}
+
+p {
+  font-weight: bold;
+}
